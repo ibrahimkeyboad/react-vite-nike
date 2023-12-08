@@ -1,8 +1,8 @@
 # Nike Website
 
-![Nike Landing Page](https://i.ibb.co/pxzMGb4/Thumbnail-2.png)
+![Nike Landing Page](/public/s.png)
 
-####Building a single-page application (SPA) with ViteJS, Tailwind CSS, and React.js is a great stack for creating a modern, fast, and responsive web application. Each of these technologies offers unique benefits:
+#### Building a single-page application (SPA) with ViteJS, Tailwind CSS, and React.js is a great stack for creating a modern, fast, and responsive web application. Each of these technologies offers unique benefits:
 
 - ViteJS: This build tool significantly speeds up the development by offering a fast cold start and a snappy HMR (Hot Module Replacement). Its out-of-the-box support for TypeScript, JSX, CSS and other assets is highly productive for developers.
 
